@@ -34,6 +34,7 @@ The database schema for this project consists of the following tables:
 Please refer to the provided SQL code for the complete schema definition and relationships between these tables.
 
 ## Entity-Relationship Diagram
+![ER Diagram](https://github.com/Amirkia1998/Property-Management-DB/blob/main/ER.PNG)
 
 ## Getting Started
 
